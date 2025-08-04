@@ -1,0 +1,8 @@
+{
+  "name": "KITA Muaythai Stations",
+  "description": "KITA Muaythai Stations is a game that uses your camera to analyze your Muay Thai poses in real-time. Perform the correct stance on command to score points.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
